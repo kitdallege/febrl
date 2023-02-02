@@ -1,3 +1,8 @@
+## This repository is archived. 
+ * A Python 3 port has been started at: https://gitlab.com/Rehket/febrl
+ * The original documentation is at: http://users.cecs.anu.edu.au/~Peter.Christen/Febrl/febrl-0.3/febrldoc-0.3/manual.html
+
+
 Febrl (Freely extensible biomedical record linkage) Version 0.4.2
 
 Copyright 2002 - 2011 Australian National University and others.
